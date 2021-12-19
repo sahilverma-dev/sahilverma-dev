@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Yagnik.</h2>
+<h2> Hey there! I'm Sahil Verma.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -18,11 +18,6 @@
   ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
 - 📶 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node%20JS-333?style=flat&logo=Node.js)
-  ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=Express)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-333?style=flat&logo=Socket.io)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
   ![FireStore](https://img.shields.io/badge/-FireStore-333?style=flat&logo=Firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
@@ -30,13 +25,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PostMan](https://img.shields.io/badge/-PostMan-333?style=flat&logo=Postman)
 
 <br/>
 
 <a href="https://github.com/CodeAddicted0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeAddicted0&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAddicted0&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviralboy&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviralboy&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/YagnikP26385066"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Yagnik%20Patel-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/coding_freak._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-coding__freak.__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:coderisaddicted@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coderisaddicted@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/sahilverma_dev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/sahilverma.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahilverma.dev-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahilverma.webdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
