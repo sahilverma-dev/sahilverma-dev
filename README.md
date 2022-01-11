@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/CodeAddicted0">
+<a href="https://github.com/theviralboy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviralboy&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviralboy&theme=buefy&layout=compact" />
 </a>
