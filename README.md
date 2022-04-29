@@ -29,8 +29,8 @@
 <br/>
 
 <a href="https://github.com/theviralboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviralboy&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviralboy&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviralboy&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviralboy&layout=compact&theme=tokyonight" />
 </a>
 
 <br/>
@@ -41,4 +41,9 @@
 <a href="https://twitter.com/sahilverma_dev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/sahilverma.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahilverma.dev-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahilverma.webdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/theviralboy/count.svg" />
 </p>
