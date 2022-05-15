@@ -35,6 +35,11 @@
 
 <br/>
 
+<h3> 📈 &nbsp;Commit Graph</h3>
+<a href="http://www.github.com/theviralboy"><img src="https://activity-graph.herokuapp.com/graph?username=theviralboy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
