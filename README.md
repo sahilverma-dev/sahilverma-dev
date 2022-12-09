@@ -52,5 +52,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/theviralboy/count.svg" />
+  <img src="https://profile-counter.glitch.me/theviralboy/count.svg" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theviralboy&theme=dark"/>
 </p>
