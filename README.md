@@ -30,15 +30,15 @@
 
 <br/>
 
-<a href="https://github.com/theviralboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviralboy&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviralboy&layout=compact&theme=tokyonight" />
+<a href="https://github.com/sahilverma-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilverma-dev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=tokyonight" />
 </a>
 
 <br/>
 
 <h3> 📈 &nbsp;Commit Graph</h3>
-<a href="http://www.github.com/theviralboy"><img src="https://activity-graph.herokuapp.com/graph?username=theviralboy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sahilverma-dev"><img src="https://activity-graph.herokuapp.com/graph?username=sahilverma-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br/>
 
@@ -52,6 +52,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/theviralboy/count.svg" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theviralboy&theme=dark"/>
+  <img src="https://profile-counter.glitch.me/sahilverma-dev/count.svg" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilverma-dev&theme=dark"/>
 </p>
