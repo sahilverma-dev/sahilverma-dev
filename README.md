@@ -31,27 +31,28 @@
 <br/>
 
 <a href="https://github.com/sahilverma-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilverma-dev&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilverma-dev&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=react" />
 </a>
 
 <br/>
 
 <h3> 📈 &nbsp;Commit Graph</h3>
-<a href="http://www.github.com/sahilverma-dev"><img src="https://activity-graph.herokuapp.com/graph?username=sahilverma-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+<a href="https://github.com/sahilverma-dev">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilverma-dev&theme=react-dark" />
+
+</a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://twitter.com/sahilverma_dev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/sahilverma.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahilverma.dev-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahilverma.webdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://twitter.com/sahilverma_dev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Sahil%20Verma-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.instagram.com/sahilverma.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahilverma.dev-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:sahilverma.webdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahilverma.webdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilverma-dev.sahilverma-dev" alt="TidbitsJS :: Visitor's Count" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sahilverma-dev/count.svg" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilverma-dev&theme=dark"/>
-</p>
