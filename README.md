@@ -30,19 +30,23 @@
 
 <br/>
 
+
+<h3> 🧑‍💻 &nbsp;Top Languages</h3>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=react" />
+
+<h3> 📈 &nbsp;Commit Stats</h3>
+
 <a href="https://github.com/sahilverma-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilverma-dev&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilverma-dev&layout=compact&theme=react" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=sahilverma-dev&theme=react" alt="GitHub Streak" />
+
 </a>
 
 <br/>
 
-<h3> 📈 &nbsp;Commit Graph</h3>
-
-
 <a href="https://github.com/sahilverma-dev">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=sahilverma-dev&theme=react-dark" />
-
 </a>
 
 <br/>
